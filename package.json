@@ -29,13 +29,13 @@
 		"registry": "https://registry.npmjs.org/"
 	},
 	"dependencies": {
-		"@remotion/bundler": "4.0.523",
-		"@remotion/renderer": "4.0.523",
+		"@remotion/bundler": "4.0.547",
+		"@remotion/renderer": "4.0.547",
 		"playwright": "1.63.0",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0",
-		"remotion": "4.0.523",
-		"sharp": "^0.35.4"
+		"remotion": "4.0.547",
+		"sharp": "^0.35.5"
 	},
 	"repository": {
 		"type": "git",
