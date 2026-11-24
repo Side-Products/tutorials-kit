@@ -12,7 +12,11 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node.js: 22+](https://img.shields.io/badge/node.js-22%2B-339933.svg)](package.json)
 
-![A browser workflow becoming a narrated tutorial video and an annotated written guide.](https://raw.githubusercontent.com/Side-Products/tutorials-kit/master/docs/assets/tutorial-kit-banner.webp)
+![A Tutorials Kit render: a narrated walkthrough of faceless.so with step labels, browser chrome, and word-timed captions.](https://raw.githubusercontent.com/Side-Products/tutorials-kit/master/docs/assets/tutorials-kit-demo.gif)
+
+<sub>Recorded, narrated, and rendered by Tutorials Kit from a five-step flow:
+[`examples/faceless/flows/site-tour.tutorial.mjs`](examples/faceless/flows/site-tour.tutorial.mjs). The GIF is
+silent; the rendered video includes the ElevenLabs narration.</sub>
 
 Define the steps once. Tutorials Kit drives your app with Playwright, records the screen and interaction
 timings, generates editable narration, and renders a video with Remotion. The same recording produces
